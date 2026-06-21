@@ -5,7 +5,7 @@ A simple desktop Expense Tracker application built with **Qt 6, QML, and C++**. 
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="screenshots/home.png" width="80%" alt="Expense Tracker">
+  <img src="Screenshot/home.png" width="80%" alt="Expense Tracker">
 </p>
 
 ## ✨ Features
